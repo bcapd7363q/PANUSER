@@ -1,2 +1,2 @@
-# Pan-is-pcn-pn-
-India.pan.gov.in
+# PAN INDIA TAX and SERVICE
+http://pan.india.gov.in/
