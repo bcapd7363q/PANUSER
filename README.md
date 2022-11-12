@@ -6,8 +6,13 @@ Compiled successfully!
 --------------------------------------------------------------------------------------
 ## if so i can put my aadhar number init 
 ## just need a sms confirmation 
-## TPN:1947
-## IP: 7240.5889.1408
+## TPN:1947 
+## country(india):091        ## docker time zone
+## new delhi(std):011        ## capital of india
+## hyderabad(std):040        ## current city
+## IP: 7240.5889.1408        ## internet protocal 
+## upi: 9937090484@jio       ## privet contact number
+## tech:Didgicart inc        ## sicurity protocal
 
 ## if so i can put my aadhar number init 
 ## just need a sms confirmation 
